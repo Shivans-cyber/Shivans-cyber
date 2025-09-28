@@ -33,15 +33,11 @@
   <img src="https://img.shields.io/badge/Design-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Python Coding GIF"/>
-</p>
-
 ---
 
 ## 🎨 <span style="font-family:Brush Script MT; font-size:28px; background: linear-gradient(90deg,#56ab2f,#a8e063); -webkit-background-clip: text; color: transparent;">Cool Vibes</span>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Cartoon Coder"/>
+  <img src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" width="500" alt="Batman Coder"/>
 </p>
 
 ---
