@@ -33,7 +33,7 @@
 
 ## 🎨 <span style="font-family:Brush Script MT; font-size:28px; background: linear-gradient(90deg,#56ab2f,#a8e063); -webkit-background-clip: text; color: transparent;">Cool Vibes</span>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Cartoon Coder"/>
+  <img src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" width="500" alt="Batman Coder"/>
 </p>
 
 ---
@@ -42,6 +42,22 @@
 💡 Innovation is not just about writing code,  
 it’s about writing a story that inspires the future.  
 🌍 Let’s create something <b style="color:#FF4500;">bold</b>, <b style="color:#00CED1;">beautiful</b>, and <b style="color:#FFD700;">impactful</b>.  
+
+---
+
+## 🏆 <span style="font-family:Georgia; font-size:28px; background: linear-gradient(90deg,#FFD700,#FF8C00); -webkit-background-clip: text; color: transparent;">Player Stats</span>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivansgupta&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansgupta&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansgupta&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansgupta&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
