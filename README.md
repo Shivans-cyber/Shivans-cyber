@@ -20,10 +20,6 @@
 ⚡ Passionate coder | Lifelong learner | Hackathon warrior  
 🔥 Believer in <b style="color:#FF69B4;">"Code Hard, Win Big, Stay Humble."</b>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="About Me GIF"/>
-</p>
-
 ---
 
 ## 🛠️ <span style="font-family:Courier New; font-size:28px; background: linear-gradient(90deg,#1CB5E0,#000046); -webkit-background-clip: text; color: transparent;">Tech Stack</span>
@@ -37,7 +33,7 @@
 
 ## 🎨 <span style="font-family:Brush Script MT; font-size:28px; background: linear-gradient(90deg,#56ab2f,#a8e063); -webkit-background-clip: text; color: transparent;">Cool Vibes</span>
 <p align="center">
-  <img src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" width="500" alt="Batman Coder"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Cartoon Coder"/>
 </p>
 
 ---
@@ -46,10 +42,6 @@
 💡 Innovation is not just about writing code,  
 it’s about writing a story that inspires the future.  
 🌍 Let’s create something <b style="color:#FF4500;">bold</b>, <b style="color:#00CED1;">beautiful</b>, and <b style="color:#FFD700;">impactful</b>.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hackathon Spirit GIF"/>
-</p>
 
 ---
 
@@ -61,10 +53,6 @@ it’s about writing a story that inspires the future.
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j5hZZwA2ja1F3o8K5n/giphy.gif" width="300" alt="Handshake Connect GIF"/>
 </p>
 
 ---
