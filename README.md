@@ -1,64 +1,55 @@
-<!-- Fancy Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=🚀+Hackathon+Project+🚀" alt="Project Banner"/>
+  <img src="https://via.placeholder.com/1000x250.png?text=🚀+Hackathon+Profile+🚀" alt="Hackathon Banner"/>
 </p>
 
-<h1 align="center">✨ Project Name ✨</h1>
+<h1 align="center">💻 Shivans Gupta 💻</h1>
 <p align="center">
-  <b>Your one-line killer pitch about the project 💡</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Made%20at-Hackathon-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/username/repo-name?style=for-the-badge"/>
+  <b>Rishihood University [NST]</b>  
 </p>
 
 ---
 
-## 🎯 About the Project
-🌟 Short description about what problem it solves and why it’s cool.  
-🔥 Add a bold statement that hooks the judges.  
-
----
-
-## 🚀 Features
-- ⚡ Blazing fast performance  
-- 🔒 Secure and reliable  
-- 🎨 Sleek modern UI  
-- 🤖 Smart automation  
+## ✨ About Me
+🌟 "Turning caffeine into code, and ideas into reality."  
+⚡ Passionate coder | Lifelong learner | Hackathon warrior  
+🔥 Believer in **"Code Hard, Win Big, Stay Humble."**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?logo=mongodb&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git-black?logo=git&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎥 Demo
+## 🎨 Cool Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Demo GIF" width="600"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Cartoon Coder"/>
 </p>
-<p align="center"><i>(Replace with your project GIF / screenshots)</i></p>
 
 ---
 
-## ⚡ Quick Start
-```bash
-# Clone this repo
-git clone https://github.com/username/repo-name.git
+## 🚀 Hackathon Spirit
+💡 Innovation is not just about writing code,  
+it’s about writing a story that inspires the future.  
+🌍 Let’s create something **bold, beautiful, and impactful.**  
 
-# Navigate into folder
-cd repo-name
+---
 
-# Install dependencies
-npm install
+## 🌟 Connect With Me
+<p align="center">
+  <a href="https://github.com/shivansgupta">
+    <img src="https://img.shields.io/badge/GitHub-Shivans--Gupta-black?logo=github&style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+  </a>
+</p>
 
-# Start the app
-npm start
+---
+
+<p align="center">
+  ⭐ <b>If my code inspires you, give my profile a star!</b> ⭐
+</p>
