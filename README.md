@@ -33,7 +33,7 @@
 
 ## 🎨 <span style="font-family:Brush Script MT; font-size:28px; background: linear-gradient(90deg,#56ab2f,#a8e063); -webkit-background-clip: text; color: transparent;">Cool Vibes</span>
 <p align="center">
-  <img src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif" width="500" alt="Batman Coder"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
 ---
