@@ -69,6 +69,18 @@ it’s about writing a story that inspires the future.
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
   </a>
+  <a href="https://instagram.com/shivans.__">
+    <img src="https://img.shields.io/badge/Instagram-shivans.__-E1306C?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 💻 <span style="font-family:Verdana; font-size:28px; background: linear-gradient(90deg,#FF6A00,#EE0979); -webkit-background-clip: text; color: transparent;">My Projects</span>
+<p align="center">
+  <a href="https://bronze-tony-67.tiiny.site/" target="_blank">
+    <img src="https://img.shields.io/badge/SIH-2025_Project-blue?style=for-the-badge&logo=appveyor" alt="SIH 2025 Project"/>
+  </a>
 </p>
 
 ---
